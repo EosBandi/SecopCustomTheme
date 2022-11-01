@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "RacCustomTheme", "RacCustomTheme.vdproj", "{7034AD93-5E84-4F69-BF7B-6730C9F32214}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7034AD93-5E84-4F69-BF7B-6730C9F32214}.Debug|Default.ActiveCfg = Debug
+		{7034AD93-5E84-4F69-BF7B-6730C9F32214}.Debug|Default.Build.0 = Debug
+		{7034AD93-5E84-4F69-BF7B-6730C9F32214}.Release|Default.ActiveCfg = Release
+		{7034AD93-5E84-4F69-BF7B-6730C9F32214}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45971790-E2F5-4C1F-A76A-5407D12004C1}
+	EndGlobalSection
+EndGlobal
